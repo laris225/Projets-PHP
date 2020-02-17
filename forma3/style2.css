@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url('images/forma3.jpg') no-repeat ;
+    background-size: cover;
+}
+.droit{
+    margin-left: 20px;
+    margin-top: 20px;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: #ffffff;
+    border-radius: 50px;
+}
+.droit img{
+    position: absolute;
+    margin-left: 8px;
+    margin-top: 8px;
+    width: 80px;
+    height: 80px;
+
+}
+.logo{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    background: #ffffff;
+    border-radius: 50%;
+    margin-left: 46%;
+    margin-top: 10px;
+}
+.logo img{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    margin-left: 48px;
+    margin-top: 20px;
+
+}
+form{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 40%;
+    background: #21cfb8c7;
+    border-radius: 50px;
+    height: 600px;
+    width: 500px;
+}
+.formulaire{
+    margin-top: 35%;
+    margin-left: 20px;
+    line-height: 50px;
+}
+form button{
+    width: 200px;
+    height: 50px;
+    color: #fff;
+    background: #fc0000;
+    border-radius: 50px;
+    margin-top: 30px;
+    border-style: none;
+    margin-left: 25%;
+    font-size: 20px;
+}
+input{
+    
+    width: 450px;
+    height: 60px;
+    border-radius: 50px;
+    box-shadow: 1px 1px 8px;
+    
+}
+.text{
+    margin-top: 20px;
+    float: right;
+    margin-right: 50px;
+}
+
